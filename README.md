@@ -1,6 +1,6 @@
-# Grocery List App
+# Grocery List API
 
-A Grocery List App that allows users to add, edit, and delete items from their grocery list.
+A Grocery List API that allows users to add, edit, and delete items from their grocery list.
 
 ## Description
 
