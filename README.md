@@ -4,7 +4,7 @@ A Grocery List API that allows users to add, edit, and delete items from their g
 
 ## Description
 
-This app allows users to add items to their grocery list. Users can also edit and delete items from their list. The app is built using JQuery.
+This app allows users to add items to their grocery list. Users can also edit and delete items from their list. The app is built using Java and requires a Mongo Database to function properly.
 
 ## Getting Started
 
@@ -13,7 +13,6 @@ This app allows users to add items to their grocery list. Users can also edit an
 * Spring Boot
 * Java 11
 * Maven
-* JQuery
 * MongoDB
 
 ### Installing
